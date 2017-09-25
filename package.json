@@ -1,0 +1,22 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "FCC - API Projects - Image Search Abstraction Layer",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnyjhnsn/image-search.git"
+  },
+  "homepage": "https://github.com/tnyjhnsn/image-search#readme",
+  "bugs": "https://github.com/tnyjhnsn/image-search/issues",
+  "scripts": {
+    "start": "nodemon server.js index.js"
+  },
+  "author": "Tony Johnson",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  }
+}
