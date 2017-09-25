@@ -1,14 +1,14 @@
 {
-  "name": "image-search",
+  "name": "file-metadata",
   "version": "1.0.0",
-  "description": "FCC - API Projects - Image Search Abstraction Layer",
+  "description": "FCC - API Projects - File Metadata",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tnyjhnsn/image-search.git"
+    "url": "git+https://github.com/tnyjhnsn/file-metadata.git"
   },
-  "homepage": "https://github.com/tnyjhnsn/image-search#readme",
-  "bugs": "https://github.com/tnyjhnsn/image-search/issues",
+  "homepage": "https://github.com/tnyjhnsn/file-metadata#readme",
+  "bugs": "https://github.com/tnyjhnsn/file-metadata/issues",
   "scripts": {
     "start": "nodemon server.js index.js"
   },
